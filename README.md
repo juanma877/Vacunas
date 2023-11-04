@@ -16,7 +16,3 @@
 [![image.png](https://i.postimg.cc/g0bx2ymq/image.png)](https://postimg.cc/k2wJjbVB)
 [![image.png](https://i.postimg.cc/NMpFDWTp/image.png)](https://postimg.cc/XGBn71sC)
 
-
-<a href='https://postimg.cc/XGBn71sC' target='_blank'><img src='https://i.postimg.cc/XGBn71sC/image.png' border='0' alt='image'/></a>
-
-[image.png](https://postimg.cc/XGBn71sC)
