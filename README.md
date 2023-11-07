@@ -1,5 +1,5 @@
-<h2 >- Proyecto para administracion de vacunas Covid-19
-- Project for administration of Covid-19 vaccines</h2>
+<h2 >- Proyecto para administracion de vacunas Covid-19</h2>
+<h2 >- Project for administration of Covid-19 vaccines</h2>
 
 <table align="left">
   <tr border="none">
