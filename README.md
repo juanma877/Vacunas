@@ -1,7 +1,7 @@
 <h2 >- Proyecto para administracion de vacunas Covid-19</h2>
 <h2 >- Project for administration of Covid-19 vaccines</h2>
 
-<table align="left">
+<table style="margin: 0 auto;">
   <tr style="border: none;">
     <td width="25%" align="center">
       <p align="center">
