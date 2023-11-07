@@ -2,7 +2,7 @@
 <h2 >- Project for administration of Covid-19 vaccines</h2>
 
 <table align="left">
-  <tr border="none">
+  <tr style="border: none;">
     <td width="25%" align="center">
       <p align="center">
         <a href="https://github.com/juanma877/Vacunas" title="Ir a la fuente">
@@ -24,7 +24,7 @@
       </p>
     </td>
   </tr>
- <tr border="none">
+ <tr style="border: none;">
     <td width="25%" align="center">
       <p align="center">
        Herramientas utilizadas
