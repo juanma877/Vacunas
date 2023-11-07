@@ -29,7 +29,7 @@
 
 
                                                         
-<table style="margin: 0 auto;">
+
   <tr style="border: none;">
     <td width="25%" align="center">
       <p align="center">  
