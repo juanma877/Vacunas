@@ -34,6 +34,8 @@
     <td width="25%" align="center">
       <p align="center">  
        Herramientas utilizadas
+    <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> </p>
+       
       </p>
      <p align="center">
         <a href="https://www.java.com/es/" title="Ir a Java">
