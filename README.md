@@ -16,38 +16,9 @@
     <img align="center" width=30% src="https://i.postimg.cc/g0bx2ymq/image.png" alt="IMAGEN" />
     <img align="center" width=30% src="https://i.postimg.cc/NMpFDWTp/image.png" alt="IMAGEN" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-                                                        
-
   <tr style="border: none;">
     <td width="25%" align="center">
       <p align="center">  
        Herramientas utilizadas
     <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> </p>
-       
-      </p>
-     <p align="center">
-        <a href="https://www.java.com/es/" title="Ir a Java">
-          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="GitHub" />
-        </a>
-      </p>
-      </p>
-     <p align="center">
-        <a href="https://mariadb.org/" title="Ir a Mariadb">
-         <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  </table>
+ 
