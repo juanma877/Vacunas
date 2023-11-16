@@ -38,7 +38,6 @@
      <p align="center">
         <a href="https://www.java.com/es/" title="Ir a Java">
           <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="GitHub" />
-         <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
         </a>
       </p>
       </p>
