@@ -36,8 +36,14 @@
        Herramientas utilizadas
       </p>
      <p align="center">
-        <a href="https://github.com/juanma877/" title="Ir a GitHub">
+        <a href="https://www.java.com/es/" title="Ir a Java">
           <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="GitHub" />
+         <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+        </a>
+      </p>
+      </p>
+     <p align="center">
+        <a href="https://mariadb.org/" title="Ir a Mariadb">
          <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
         </a>
       </p>
